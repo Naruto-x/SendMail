@@ -1,0 +1,7 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: naruto.x@foxmail.com
+    password: ykbdieaildvpbabh
+    protocol: smtp
+    default-encoding: utf-8
